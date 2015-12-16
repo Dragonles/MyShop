@@ -144,6 +144,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessmans.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_press.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -188,6 +192,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\nvzhuang_frist.jpg"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shuma_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shuma_img.jpg"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadds.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadds.png"
     },
@@ -208,12 +216,20 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_black.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_black.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_lock.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_lock.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qq.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\qq.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\per_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\per_press.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_shop.png",
@@ -356,6 +372,10 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_press.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_message.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_message.png"
     },
@@ -406,6 +426,14 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\per_black.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\per_black.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_black.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_black.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
