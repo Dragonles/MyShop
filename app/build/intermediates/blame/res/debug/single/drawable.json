@@ -20,6 +20,10 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_edittext_style.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable\\login_edittext_style.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },

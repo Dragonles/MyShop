@@ -48,12 +48,28 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list_item.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\address_list_item.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\care_lsit_item.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\care_lsit_item.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -140,6 +156,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_activtiy.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_address_activtiy.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -150,6 +170,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_care.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_care.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",

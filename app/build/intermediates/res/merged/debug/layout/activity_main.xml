@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-10dp"
         android:layout_alignParentLeft="true"
         android:gravity="center"
         android:background="#FFF"
@@ -27,6 +28,7 @@
             android:drawableTop="@drawable/nav1_radio_button_style"
             android:button="@null"
             android:gravity="center"
+            android:paddingTop="10dp"
             android:layout_weight="1"
             android:checked="false" />
 
@@ -36,6 +38,7 @@
             android:drawableTop="@drawable/nav2_radio_button_style"
             android:button="@null"
             android:layout_weight="1"
+            android:paddingTop="10dp"
             android:id="@+id/message"
             android:gravity="center"
             android:checked="false" />
@@ -45,6 +48,7 @@
             android:id="@+id/per"
             android:button="@null"
             android:layout_weight="1"
+            android:paddingTop="10dp"
             android:drawableTop="@drawable/nav3_radio_button_style"
             android:gravity="center"
             android:checked="false" />

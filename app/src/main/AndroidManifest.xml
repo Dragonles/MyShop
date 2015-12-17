@@ -26,11 +26,28 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_shan"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
         <activity
             android:name=".LeadActivity"
             android:label="@string/title_activity_lead"
-            android:theme="@style/MyFullscreen"></activity>
+            android:theme="@style/MyFullscreen" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegistActivity"
+            android:label="@string/title_activity_regist"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddressActivtiy"
+            android:label="@string/title_activity_address_activtiy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CareActivity"
+            android:label="@string/title_activity_care"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

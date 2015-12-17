@@ -316,6 +316,10 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dianpu_img.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\dianpu_img.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
@@ -474,6 +478,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mais_logo.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mais_logo.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dainpu_imgs.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\dainpu_imgs.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favorite.png",

@@ -30,6 +30,7 @@
                 android:orientation="vertical">
                 <ImageButton
                     android:layout_width="30dp"
+                    android:id="@+id/allclass"
                     android:background="@drawable/class_img"
                     android:layout_height="30dp" />
                 <TextView
@@ -79,7 +80,7 @@
 
     <ScrollView
         android:layout_width="fill_parent"
-        android:layout_marginBottom="20dp"
+        android:layout_marginBottom="40dp"
         android:layout_height="wrap_content">
         <LinearLayout
             android:layout_width="fill_parent"
@@ -242,7 +243,7 @@
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="110dp"
-                                android:background="@drawable/tuijian_first"/>
+                                android:background="@drawable/tuijian_four"/>
                         </LinearLayout>
                         <LinearLayout
                             android:layout_width="0dp"
@@ -252,7 +253,7 @@
                             <ImageView
                                 android:layout_width="80dp"
                                 android:layout_height="110dp"
-                                android:background="@drawable/tuijian_first"/>
+                                android:background="@drawable/tuijian_two"/>
                         </LinearLayout>
                         <LinearLayout
                             android:layout_width="0dp"
