@@ -30,7 +30,10 @@
         <activity
             android:name=".LeadActivity"
             android:label="@string/title_activity_lead"
-            android:theme="@style/MyFullscreen"></activity>
+            android:theme="@style/MyFullscreen" />
+        <activity android:name=".UserInforActivity" />
+        <activity android:name=".UserCommentActivity" />
+        <activity android:name=".SettleAccountsActivity"></activity>
     </application>
 
 </manifest>

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "E:\\android\\androidstudio\\myshop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\android\\androidstudio\\myshop\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstudio\\myshop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\android\\androidstudio\\myshop\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
