@@ -1,525 +1,5 @@
 [
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_gifts.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_gifts.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mianyi_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mianyi_img.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_banner_first.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_banner_first.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_info.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_info.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_comments.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_comments.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favorite.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\favorite.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\niuzaiku_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\niuzaiku_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_favor.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_favor.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_search.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_search.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cameraadd.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cameraadd.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_recharge.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_recharge.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\person.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\person.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_recharge.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_recharge.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete_press.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete_press.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_location_press.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_location_press.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete_press.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete_press.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewfirst.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewfirst.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\niuzaiku_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\niuzaiku_img.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\order.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chaonan_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\chaonan_img.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_scan.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_scan.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weiyi_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\weiyi_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadd_press.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadd_press.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order_pressed.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\order_pressed.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_first.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_first.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nanzhuang_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\nanzhuang_img.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessmans.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessmans.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mai_logp.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mai_logp.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_picfill.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_picfill.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lingshi_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\lingshi_img.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mianyi_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mianyi_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadds.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadds.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_attention.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_attention.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_phone_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_phone_img.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cameraadd.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cameraadd.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\user_img.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_lock.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_lock.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_my.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_my.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cartfill.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cartfill.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order_pressed.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\order_pressed.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_message.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_message.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop_pressed.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop_pressed.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shoubiao_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shoubiao_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_card.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_card.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessman.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessman.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_add.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_add.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_footprint.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_footprint.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_commentss.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_commentss.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_favor.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_favor.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_lock.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_lock.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pixie_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\pixie_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huoji_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\huoji_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_four.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_four.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewthree.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewthree.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_banner_two.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_banner_two.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_back.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_back.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_banner_three.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_banner_three.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_pressed.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_pressed.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\class_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\class_img.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_baby_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_baby_img.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_attention.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_attention.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_four.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_four.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_check.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_check.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_message_press.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_message_press.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewtwo.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewtwo.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_check.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_check.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pixie_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\pixie_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huoji_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\huoji_img.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewtwo.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewtwo.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewthree.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewthree.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessman.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessman.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_pressed.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_pressed.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop_pressed.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop_pressed.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shoubiao_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shoubiao_img.jpg"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_cloth_img.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_cloth_img.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_vip_press.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_vip_press.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favorite.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\favorite.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_erwei.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_erwei.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cartfill.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cartfill.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_img.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\user_img.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_scan.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_scan.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shan_img.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shan_img.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_three.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_three.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bao_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\bao_img.jpg"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -528,32 +8,16 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_commentss.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_commentss.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_footprint.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_footprint.png"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_location.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_location.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_more.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_more.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_cloth_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_cloth_img.png"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bao_img.jpg",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\bao_img.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mianyi_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mianyi_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_home.png",
@@ -566,10 +30,6 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\class_img.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\class_img.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weiyi_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\weiyi_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
@@ -596,8 +56,16 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadd_press.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadd_press.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\niuzaiku_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\niuzaiku_img.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_favor.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_favor.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cameraadd.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cameraadd.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
@@ -608,8 +76,24 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadd.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadd.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\person.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\person.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_recharge.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_recharge.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete_press.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
@@ -620,16 +104,24 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_moreandroid_press.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nanzhuang_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\nanzhuang_img.jpg"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_location_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_location_press.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewfirst.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewfirst.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order.png",
@@ -640,172 +132,172 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cart.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chaonan_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\chaonan_img.jpg"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_card.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_card.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nvzhuang_frist.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\nvzhuang_frist.jpg"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weiyi_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\weiyi_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessmans.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessmans.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_press.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadd_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadd_press.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_first.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_first.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_erwei.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_erwei.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_footprints.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_footprints.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nanzhuang_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\nanzhuang_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_location.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_location.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_apps.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_apps.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mai_logp.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mai_logp.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nvzhuang_frist.jpg",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\nvzhuang_frist.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shuma_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shuma_img.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadds.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadds.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_baby_img.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_baby_img.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qq.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\qq.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_attention.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_attention.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\person_pressed.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\person_pressed.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_black.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_black.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_lock.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_lock.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qq.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\qq.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_message_press.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_message_press.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\per_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\per_press.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_shop.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_shop.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order_pressed.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\order_pressed.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_vip.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_vip.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_form.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_form.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shan_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shan_img.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_moreandroid_press.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_moreandroid_press.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shoubiao_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shoubiao_img.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_card.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_card.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_shop.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_shop.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_add.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_add.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cart.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cart.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_commentss.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_commentss.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_location_press.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_location_press.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadds.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadds.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_footprint.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_footprint.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_moreandroid.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_moreandroid.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pixie_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\pixie_img.jpg"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mai_logp.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mai_logp.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_home.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_home.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huoji_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\huoji_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_two.jpg",
@@ -816,20 +308,24 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_four.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_four.jpg"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mais_logo.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mais_logo.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_food_img.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_food_img.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_banner_first.jpg",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_banner_first.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_back.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_back.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_deliver.png",
@@ -840,12 +336,16 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_info.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_three.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_three.jpg"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_pressed.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_pressed.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_gifts.png",
@@ -856,20 +356,12 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_form.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_moreandroid.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_moreandroid.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_close.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_close.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_first.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_first.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_banner_three.jpg",
@@ -880,24 +372,20 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_press.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_message.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_message.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chaonan_img.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\chaonan_img.jpg"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_message_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_message_press.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewfirst.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewfirst.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_vip_press.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_vip_press.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewtwo.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewtwo.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
@@ -908,68 +396,88 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_vip.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_deliver.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_deliver.png"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_comments.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_comments.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_check.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_check.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_add.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_add.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\person.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\person.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_phone_img.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_phone_img.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_delete.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\per_black.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\per_black.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_black.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_black.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewthree.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\viewthree.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_apps.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_apps.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessman.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessman.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_two.jpg",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_two.jpg"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop_pressed.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop_pressed.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_vip_press.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_vip_press.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_cloth_img.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_cloth_img.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mais_logo.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\mais_logo.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\favorite.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\favorite.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
@@ -988,28 +496,40 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_my.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_back.png",
-        "source": "D:\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_back.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cartfill.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cartfill.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_img.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\user_img.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_scan.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_scan.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shan_img.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shan_img.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_close.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_close.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_three.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tuijian_three.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_picfill.png",
@@ -1018,9 +538,5 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_friendadd.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friendadd.png"
-    },
-    {
-        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "D:\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
     }
 ]
