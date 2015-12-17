@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\MyShop\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
