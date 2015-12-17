@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items version="2" />
 
+<<<<<<< HEAD
+=======
+    <item
+        jar="E:\android\androidstudio\myshop\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="189f0edea0c1d6b5ddb02a574a5bb9714650b7b4">
+        <dex dex="E:\android\androidstudio\myshop\app\build\intermediates\pre-dexed\debug\classes_f0c4bb36f4bcce94f9c8feb0ff1d92034416f581.jar" />
+    </item>
+
+</items>
+>>>>>>> qing
