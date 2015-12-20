@@ -92,6 +92,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_delete_press.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_code_bg.9.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\qr_code_bg.9.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -204,6 +208,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_baby_img.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scan_line.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\scan_line.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_attention.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_attention.png"
     },
@@ -238,6 +246,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order_pressed.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\order_pressed.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shadow.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
@@ -442,6 +454,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kaitong_img.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\kaitong_img.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\viewthree.png",

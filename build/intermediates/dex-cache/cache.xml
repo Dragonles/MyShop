@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="F:\shop\MyShop\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca778c97341d58a8262e6eedd5fc2b7ca019f4e3">
+        <dex dex="F:\shop\MyShop\app\build\intermediates\pre-dexed\debug\classes_cc49753cb93dcc09dc5cee467ecfd16312300aca.jar" />
+    </item>
+
+</items>
