@@ -83,6 +83,7 @@
     <ScrollView
         android:layout_width="fill_parent"
         android:layout_marginBottom="40dp"
+        android:id="@+id/scview"
         android:layout_height="wrap_content">
         <LinearLayout
             android:layout_width="fill_parent"
@@ -108,67 +109,16 @@
                     android:paddingTop="10dp"
                     android:paddingBottom="10dp"
                     android:layout_height="wrap_content">
-                    <LinearLayout
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        android:gravity="center"
-                        android:layout_weight="1">
-                        <ImageButton
-                            android:layout_width="60dp"
-                            android:layout_height="60dp"
-                            android:background="@drawable/home_cloth_img"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="服装"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        android:gravity="center"
-                        android:layout_weight="1">
-                        <ImageButton
-                            android:layout_width="60dp"
-                            android:layout_height="60dp"
-                            android:background="@drawable/home_food_img"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="饮食"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        android:gravity="center"
-                        android:layout_weight="1">
-                        <ImageButton
-                            android:layout_width="60dp"
-                            android:layout_height="60dp"
-                            android:background="@drawable/home_phone_img"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="数码"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        android:gravity="center"
-                        android:layout_weight="1">
-                        <ImageButton
-                            android:layout_width="60dp"
-                            android:layout_height="60dp"
-                            android:background="@drawable/home_baby_img"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="孕婴"/>
-                    </LinearLayout>
-
+                    <com.shop.myshop.untils.GridViewForScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:numColumns="4"
+                        android:stretchMode="columnWidth"
+                        android:columnWidth="100dp"
+                        android:verticalSpacing="10dp"
+                        android:horizontalSpacing="0dp"
+                        android:id="@+id/gridview">
+                    </com.shop.myshop.untils.GridViewForScrollView>
                 </LinearLayout>
                 <TextView
                     android:layout_width="fill_parent"
@@ -219,55 +169,19 @@
                     <TextView
                         android:layout_width="fill_parent"
                         android:layout_height="1dp"
-                        android:background="@color/xiantiao"
-                        />
+                        android:background="@color/xiantiao"/>
                     <LinearLayout
                         android:layout_width="fill_parent"
                         android:background="@color/white"
                         android:orientation="horizontal"
                         android:padding="10dp"
-                        android:layout_height="wrap_content">
-                        <LinearLayout
-                            android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:gravity="center"
-                            android:layout_height="wrap_content">
-                            <ImageView
-                                android:layout_width="80dp"
-                                android:layout_height="110dp"
-                                android:background="@drawable/tuijian_first"/>
-                        </LinearLayout>
-                        <LinearLayout
-                            android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:gravity="center"
-                            android:layout_height="wrap_content">
-                            <ImageView
-                                android:layout_width="80dp"
-                                android:layout_height="110dp"
-                                android:background="@drawable/tuijian_four"/>
-                        </LinearLayout>
-                        <LinearLayout
-                            android:layout_width="0dp"
-                            android:layout_weight="1"
-                            android:gravity="center"
-                            android:layout_height="wrap_content">
-                            <ImageView
-                                android:layout_width="80dp"
-                                android:layout_height="110dp"
-                                android:background="@drawable/tuijian_two"/>
-                        </LinearLayout>
-                        <LinearLayout
-                            android:layout_width="0dp"
-                            android:layout_weight="1.6"
-                            android:gravity="center"
-                            android:layout_height="wrap_content">
-                            <ImageView
-                                android:layout_width="130dp"
-                                android:layout_height="110dp"
-                                android:background="@drawable/chaonan_img"/>
-                        </LinearLayout>
 
+                        android:layout_height="wrap_content">
+                        <com.shop.myshop.untils.HorizontalListView
+                            android:layout_width="match_parent"
+                            android:id="@+id/horizontalistview"
+                            android:layout_height="150dp">
+                        </com.shop.myshop.untils.HorizontalListView>
                     </LinearLayout>
                     <TextView
                         android:layout_width="fill_parent"

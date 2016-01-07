@@ -10,4 +10,10 @@
     <color name="huise">#ECEAEC</color>
     <color name="xiantiao">#DFDEDE</color>
     <color name="fontcolor">#64595c</color>
+    <color name="public_toolbar_color">#ef5b5b</color>
+    <color name="public_line_color">#4F4A4A</color>
+    <color name="public_font_color">#64595c</color>
+    <color name="public_background">#eceaec</color>
+    <color name="public_warn_color">#3cf723</color>
+
 </resources>

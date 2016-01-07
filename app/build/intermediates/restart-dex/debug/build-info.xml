@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<instant-run build-id="1450424152023"><javac duration="0"/><instant-run-dex duration="0"/><instant-run-transform duration="0"/><verifier duration="0"/></instant-run>
-=======
-<<<<<<< HEAD
-<instant-run build-id="1450322694689" verifier="COMPATIBLE"><javac duration="2230"/><instant-run-dex duration="24"/><instant-run-transform duration="148"/><verifier duration="5"/></instant-run>
-=======
-<instant-run build-id="1450316336509"><javac duration="0"/><instant-run-dex duration="0"/><instant-run-transform duration="0"/><verifier duration="0"/></instant-run>
->>>>>>> qing
->>>>>>> 50016677e18a2772ad42c370c172a392d76fa706
+<instant-run build-id="1452126091059"><javac duration="0"/><instant-run-dex duration="0"/><instant-run-transform duration="0"/><verifier duration="0"/></instant-run>
