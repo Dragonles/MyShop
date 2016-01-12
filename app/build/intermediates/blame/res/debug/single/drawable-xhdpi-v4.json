@@ -60,16 +60,20 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\lingshi_img.jpg"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cloth_c.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\cloth_c.jpg"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cartfill_checked.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cartfill_checked.png"
     },
     {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\niuzaiku_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\niuzaiku_img.jpg"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\niuzaiku_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\niuzaiku_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_favor.png",
@@ -82,6 +86,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_cameraadd.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_cameraadd.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\more.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\more.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_footprint_checked.png",
@@ -128,6 +136,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_moreandroid_press.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cloth_a.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\cloth_a.jpg"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message.png"
     },
@@ -164,16 +176,20 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\chaonan_img.jpg"
     },
     {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weiyi_img.jpg",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\weiyi_img.jpg"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dot_blur.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\dot_blur.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessmans.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessmans.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_press.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\message_press.png"
     },
     {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_bussinessmans.png",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_bussinessmans.png"
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weiyi_img.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\weiyi_img.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
@@ -244,6 +260,10 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fab_bg_normal.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\MyShop\\librarsy\\unspecified\\res\\drawable-xhdpi-v4\\fab_bg_normal.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_black.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\home_black.png"
     },
@@ -270,6 +290,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_usercenter_reimburse.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\ic_usercenter_reimburse.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cloth_b.jpg",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\cloth_b.jpg"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\order_pressed.png",
@@ -346,6 +370,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huoji_img.jpg",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\huoji_img.jpg"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fab_bg_mini.png",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\MyShop\\librarsy\\unspecified\\res\\drawable-xhdpi-v4\\fab_bg_mini.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tuijian_two.jpg",
@@ -452,6 +480,10 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_vip.png"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dot_focus.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\dot_focus.png"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\iconfont_comments.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_comments.png"
     },
@@ -522,6 +554,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shop_pressed.png",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\shop_pressed.png"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tupian.png",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable-xhdpi\\tupian.png"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
