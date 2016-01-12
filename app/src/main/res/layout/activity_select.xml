@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rly_top"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:background="#ef5b5b">
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/back"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/et_select"
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:hint="搜索框"
+            android:background="@drawable/message_style"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_centerHorizontal="true"/>
+        <ImageButton
+            android:layout_width="8dp"
+            android:layout_height="30dp"
+            android:background="@drawable/more"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/tv_jiange"
+        android:layout_below="@+id/rly_top"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEE"/>
+    <LinearLayout
+        android:id="@+id/lly_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/tv_jiange">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingLeft="5dp"
+            android:layout_height="match_parent">
+            <Spinner android:id="@+id/spinner_zonghe"
+                android:layout_width="match_parent"
+                android:background="@null"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_height="match_parent">
+            </Spinner>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_xiaoliang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="销量优先"
+            android:background="@null"/>
+        <Button
+            android:id="@+id/btn_筛选"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="筛选"
+            android:background="@null"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_below="@+id/lly_btn"
+        android:layout_height="wrap_content">
+        <com.shop.myshop.untils.GridViewForScrollView
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/lly_btn"
+            android:layout_height="wrap_content"
+            android:numColumns="2"
+            android:stretchMode="columnWidth"
+            android:columnWidth="100dp"
+            android:verticalSpacing="10dp"
+            android:horizontalSpacing="0dp"
+            android:id="@+id/select_gridview"></com.shop.myshop.untils.GridViewForScrollView>
+    </ScrollView>
+
+</RelativeLayout>

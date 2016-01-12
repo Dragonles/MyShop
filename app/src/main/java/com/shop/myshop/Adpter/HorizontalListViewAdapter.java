@@ -43,7 +43,6 @@ public class HorizontalListViewAdapter extends BaseAdapter {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-
         ViewHolder holder;
         if(convertView==null){
             holder = new ViewHolder();
@@ -54,7 +53,6 @@ public class HorizontalListViewAdapter extends BaseAdapter {
             holder=(ViewHolder)convertView.getTag();
             holder.mImage.setBackgroundResource(lists.get(position).getImg());
         }
-
         return convertView;
     }
 

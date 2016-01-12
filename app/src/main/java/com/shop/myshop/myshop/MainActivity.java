@@ -7,11 +7,13 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.RadioButton;
+import android.widget.Toast;
 
 import com.shop.myshop.fragment.HomeFragment;
 import com.shop.myshop.fragment.MessageFragment;
@@ -21,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     FragmentManager mfm;
     FragmentTransaction ftt;
+    private long exitTime = 0;
     RadioButton mhome,mmessage,mper;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -107,5 +110,27 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         }
         ftt.commit();
+    }
+    public boolean dispatchKeyEvent(KeyEvent event) {
+        if (event.getKeyCode() == KeyEvent.KEYCODE_BACK) {
+            if (event.getAction() == KeyEvent.ACTION_DOWN && event.getRepeatCount() == 0) {
+                this.exitApp();
+            }
+            return true;
+        }
+        return super.dispatchKeyEvent(event);
+    }
+
+    /**
+     * 退出程序
+     */
+    private void exitApp() {
+        // 判断2次点击事件时间
+        if ((System.currentTimeMillis() - exitTime) > 2000) {
+            Toast.makeText(MainActivity.this, "再按一次退出程序", Toast.LENGTH_SHORT).show();
+            exitTime = System.currentTimeMillis();
+        } else {
+            finish();
+        }
     }
 }

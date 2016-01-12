@@ -96,6 +96,10 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_style.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable\\message_style.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav3_radio_button_style.xml",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable\\nav3_radio_button_style.xml"
     },
@@ -106,6 +110,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",

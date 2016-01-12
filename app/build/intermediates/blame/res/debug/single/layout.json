@@ -8,16 +8,20 @@
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_slideshow.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\layout_slideshow.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -48,12 +52,12 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\fragment_per.xml"
     },
     {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settle_accounts.xml",
-        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_settle_accounts.xml"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settle_accounts.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_settle_accounts.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list_item.xml",
@@ -64,12 +68,12 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\care_lsit_item.xml"
     },
     {
-        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
@@ -82,6 +86,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\activity_select.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -212,12 +220,20 @@
         "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\fragment_message.xml"
     },
     {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_item.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\select_item.xml"
+    },
+    {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btom_list_item.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\btom_list_item.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -238,6 +254,10 @@
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "F:\\shop\\MyShop\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hot_list_item.xml",
+        "source": "F:\\shop\\MyShop\\app\\src\\main\\res\\layout\\hot_list_item.xml"
     },
     {
         "merged": "F:\\shop\\MyShop\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_comment.xml",
