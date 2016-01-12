@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.shop.myshop.myshop.ShopsInfoActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/public_toolbar_color"
+        android:id="@+id/rl_shopsinfo_toolbar">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:paddingLeft="5dp"
+            android:src="@drawable/back"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:id="@+id/ib_shopsinfo_back" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:layout_height="30dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:background="@drawable/et_shopsinfo_search_style"
+            android:id="@+id/et_shopsinfo_search"
+            android:hint="搜索店内宝贝"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/ib_shopsinfo_back"
+            android:layout_toLeftOf="@+id/btn_shopsinfo_classify" />
+
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:textColor="@color/white"
+            android:background="@null"
+            android:text="分类"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/iv_shopsinfo_menu"
+            android:layout_toStartOf="@+id/iv_shopsinfo_menu"
+            android:id="@+id/btn_shopsinfo_classify" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:src="@drawable/iconfont_moreandroid"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/iv_shopsinfo_menu" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_shopsinfo_gone"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/rl_shopsinfo_toolbar"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:orientation="horizontal">
+    </LinearLayout>
+
+    <com.shop.myshop.bean.MyScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sv_shopsinfo"
+        android:layout_below="@+id/rl_shopsinfo_toolbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@drawable/home_banner_three"
+                android:id="@+id/rl_shopsinfo_storebackground">
+
+                <com.shop.myshop.untils.CircleImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/user_head"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:id="@+id/civ_shopsinfo_storeheader" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="5dp"
+                    android:text="小仓服饰专卖店"
+                    android:id="@+id/tv_shopsinfo_storename"
+                    android:layout_alignTop="@+id/civ_shopsinfo_storeheader"
+                    android:layout_toRightOf="@+id/civ_shopsinfo_storeheader"
+                    android:layout_toEndOf="@+id/civ_shopsinfo_storeheader" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/iv_shopsinfo_storecredit"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/civ_shopsinfo_storeheader"
+                    android:layout_toEndOf="@+id/civ_shopsinfo_storeheader"
+                    android:src="@drawable/iconfont_vip_press" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="lv2"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/public_toolbar_color"
+                    android:id="@+id/tv_shopsinfo_storegrade"
+                    android:layout_alignBottom="@+id/iv_shopsinfo_storecredit"
+                    android:layout_toRightOf="@+id/iv_shopsinfo_storecredit"
+                    android:layout_toEndOf="@+id/iv_shopsinfo_storecredit" />
+
+                <CheckBox
+                    android:layout_width="55dp"
+                    android:layout_height="40dp"
+                    android:text="收藏"
+                    android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:background="@drawable/btn_shopsinfo_shapes"
+                    android:textColor="@color/white"
+                    android:textSize="10sp"
+                    android:button="@null"
+                    android:drawableTop="@drawable/cb_shopsinfo_collect"
+                    android:id="@+id/cb_shopsinfo_collect"
+                    android:layout_alignBottom="@+id/tv_shopsinfo_storegrade"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_alignTop="@+id/cb_shopsinfo_collect"
+                    android:layout_toLeftOf="@+id/cb_shopsinfo_collect"
+                    android:layout_toStartOf="@+id/cb_shopsinfo_collect"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="6666"
+                        android:gravity="center"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:id="@+id/tv_shopsinfo_fansnum" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="10sp"
+                        android:gravity="center"
+                        android:text="粉丝数"/>
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:id="@+id/ll_shopsinfo_scgone"
+                android:layout_height="50dp">
+
+                <RadioGroup
+                    android:id="@+id/rg_shopsinfo_checkframe"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/white"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:paddingTop="5dp"
+                        android:id="@+id/rb_shopsinfo_home"
+                        android:layout_height="match_parent"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="店铺首页"
+                        android:drawableTop="@drawable/rb_shopsinfo_home_style"
+                        android:textColor="@color/fontcolor"/>
+
+                    <RadioButton
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:paddingTop="5dp"
+                        android:id="@+id/rb_shopsinfo_all"
+                        android:layout_height="match_parent"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="全部宝贝"
+                        android:drawableTop="@drawable/rb_shopsinfo_all_style"
+                        android:textColor="@color/fontcolor"/>
+
+                    <RadioButton
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:paddingTop="5dp"
+                        android:id="@+id/rb_shopsinfo_news"
+                        android:layout_height="match_parent"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="新品上架"
+                        android:drawableTop="@drawable/rb_shopsinfo_news_style"
+                        android:textColor="@color/fontcolor"/>
+
+                    <RadioButton
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:paddingTop="5dp"
+                        android:id="@+id/rb_shopsinfo_dongtai"
+                        android:layout_height="match_parent"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:text="店铺动态"
+                        android:drawableTop="@drawable/rb_shopsinfo_dongtai_style"
+                        android:textColor="@color/fontcolor"/>
+
+                </RadioGroup>
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/fragment_shopsinfo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+            </FrameLayout>
+        </LinearLayout>
+    </com.shop.myshop.bean.MyScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/fontcolor"
+        android:layout_above="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="宝贝分类"
+            android:id="@+id/tv_shopsinfo_classify"
+            android:textColor="@color/fontcolor"
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/fontcolor"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="店铺简介"
+            android:id="@+id/tv_shopsinfo_info"
+            android:gravity="center"
+            android:textColor="@color/fontcolor"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/fontcolor"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="联系卖家"
+            android:id="@+id/tv_shopsinfo_contact"
+            android:textColor="@color/fontcolor"
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+</RelativeLayout>
