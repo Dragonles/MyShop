@@ -184,86 +184,69 @@
                 android:layout_height="1dp"
                 android:background="@color/public_line_color"/>
 
-            <LinearLayout
+            <RadioGroup
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:orientation="horizontal">
 
-                <LinearLayout
+                <RadioButton
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="match_parent"
-                    android:gravity="center">
-
-                    <CheckBox
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="足迹"
-                        android:textColor="@color/public_font_color"
-                        android:gravity="center"
-                        android:button="@null"
-                        android:checked="true"
-                        android:drawableTop="@drawable/cb_footprint_style"
-                        android:id="@+id/cb_user_footers" />
-                </LinearLayout>
+                    android:text="足迹"
+                    android:paddingTop="15dp"
+                    android:textColor="@color/public_font_color"
+                    android:gravity="center"
+                    android:button="@null"
+                    android:checked="true"
+                    android:drawableTop="@drawable/cb_footprint_style"
+                    android:id="@+id/rb_user_footers"/>
                 <TextView
                     android:layout_width="1dp"
                     android:layout_height="match_parent"
                     android:background="@color/public_line_color"/>
-                <LinearLayout
+                <RadioButton
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="match_parent"
-                    android:gravity="center">
-
-                    <CheckBox
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="已买到"
-                        android:button="@null"
-                        android:textColor="@color/public_font_color"
-                        android:gravity="center"
-                        android:drawableTop="@drawable/cb_alreadyhave_style"
-                        android:checked="false"
-                        android:id="@+id/cb_user_having" />
-                </LinearLayout>
+                    android:text="已买到"
+                    android:paddingTop="15dp"
+                    android:button="@null"
+                    android:textColor="@color/public_font_color"
+                    android:gravity="center"
+                    android:drawableTop="@drawable/cb_alreadyhave_style"
+                    android:checked="false"
+                    android:id="@+id/rb_user_having"/>
                 <TextView
                     android:layout_width="1dp"
                     android:layout_height="match_parent"
                     android:background="@color/public_line_color"/>
-                <LinearLayout
+                <RadioButton
                     android:layout_width="0dp"
                     android:layout_weight="1"
                     android:layout_height="match_parent"
-                    android:gravity="center">
-
-                    <CheckBox
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="收藏"
-                        android:button="@null"
-                        android:textColor="@color/public_font_color"
-                        android:gravity="center"
-                        android:drawableTop="@drawable/cb_collect_style"
-                        android:checked="false"
-                        android:id="@+id/cb_user_collect" />
-                </LinearLayout>
-            </LinearLayout>
+                    android:text="收藏"
+                    android:paddingTop="15dp"
+                    android:button="@null"
+                    android:textColor="@color/public_font_color"
+                    android:gravity="center"
+                    android:drawableTop="@drawable/cb_collect_style"
+                    android:checked="false"
+                    android:id="@+id/rb_user_collect"/>
+            </RadioGroup>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="1dp"
                 android:background="@color/public_line_color"/>
 
-            <ListView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/listView"
-                android:layout_gravity="right" />
+            <FrameLayout
+                android:id="@+id/fragment_per_parent"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+            </FrameLayout>
 
         </LinearLayout>
 
     </ScrollView>
-
-
 
 </LinearLayout>

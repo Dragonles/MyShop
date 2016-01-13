@@ -19,4 +19,17 @@
     <color name="transparent">#00000000</color>
 
     <!--增庆结束-->
+    <color name="public_warn_color">#3cf723</color>
+    <color name="moneycolor">#E00A15</color>
+    <color name="moneyhuise">#9B9B9B</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
 </resources>

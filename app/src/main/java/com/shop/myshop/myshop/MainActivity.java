@@ -1,20 +1,18 @@
 package com.shop.myshop.myshop;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.view.KeyEvent;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
+import com.shop.myshop.fragment.AttentionFragment;
+import com.shop.myshop.fragment.CartFragment;
 import com.shop.myshop.fragment.HomeFragment;
 import com.shop.myshop.fragment.MessageFragment;
 import com.shop.myshop.fragment.PerFragment;
@@ -24,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     FragmentManager mfm;
     FragmentTransaction ftt;
     private long exitTime = 0;
-    RadioButton mhome,mmessage,mper;
+    RadioButton mhome,mmessage,mper,mattention,mcart;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,6 +30,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mhome = (RadioButton)findViewById(R.id.home);//主页的单选按钮
         mmessage = (RadioButton)findViewById(R.id.message);//信息的单选按钮
         mper = (RadioButton)findViewById(R.id.per);//个人的单选按钮
+        mattention = (RadioButton) findViewById(R.id.attention); // 关注
+        mcart = (RadioButton) findViewById(R.id.cart); // 购物车
         mhome.setChecked(true);
 
         //为每个按钮添加点击事件
@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mper.setOnClickListener(this);
         mhome.setOnClickListener(this);
         mper.setOnClickListener(this);
+        mattention.setOnClickListener(this);
+        mcart.setOnClickListener(this);
 
         mfm = getSupportFragmentManager();
         if (savedInstanceState == null){
@@ -83,6 +85,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (mfm.findFragmentByTag("per")!= null){
             ftt.hide(mfm.findFragmentByTag("per"));
         }
+        if (mfm.findFragmentByTag("attention")!= null){
+            ftt.hide(mfm.findFragmentByTag("attention"));
+        }
+        if (mfm.findFragmentByTag("cart")!= null){
+            ftt.hide(mfm.findFragmentByTag("cart"));
+        }
         int id = v.getId();
         if (id == R.id.home){
             if (mfm.findFragmentByTag("home")!=null){
@@ -107,6 +115,22 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 PerFragment nf = new PerFragment();
                 //add(父布局ID，Fragment，Tag);
                 ftt.add(R.id.fragment_parent,nf,"per");
+            }
+        } else if (id == R.id.attention){   //关注
+            if (mfm.findFragmentByTag("attention")!=null){
+                ftt.show(mfm.findFragmentByTag("attention"));
+            }else{
+                AttentionFragment af = new AttentionFragment();
+                //add(父布局ID，Fragment，Tag);
+                ftt.add(R.id.fragment_parent,af,"attention");
+            }
+        }else if (id == R.id.cart){   //购物车
+            if (mfm.findFragmentByTag("cart")!=null){
+                ftt.show(mfm.findFragmentByTag("cart"));
+            }else{
+                CartFragment cf = new CartFragment();
+                //add(父布局ID，Fragment，Tag);
+                ftt.add(R.id.fragment_parent,cf,"cart");
             }
         }
         ftt.commit();

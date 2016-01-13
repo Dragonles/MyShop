@@ -128,7 +128,7 @@ public class ShopsInfoActivity extends AppCompatActivity implements MyScrollView
             }else{
                 ShopsHomeFragment hf = new ShopsHomeFragment();
                 //add(父布局ID，Fragment，Tag);
-                ftt.add(R.id.fragment_parent, hf, "shophome");
+                ftt.add(R.id.fragment_shopsinfo, hf, "shophome");
             }
 
         }else if (id == R.id.rb_shopsinfo_all){
